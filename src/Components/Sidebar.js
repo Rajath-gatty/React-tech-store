@@ -29,7 +29,7 @@ const SideWrapper = styled.nav`
     position: fixed;
     top: 54px;
     left: 0px;
-    width: 20;
+    width: 21rem;
     height: 100%;
     background: var(--mainGrey);
     transition: var(--mainTransition);
