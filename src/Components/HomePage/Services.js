@@ -69,6 +69,10 @@ border-radius: 10px;
     margin: 0 auto;
     color: var(--primaryColor);
 }
+
+@media (max-width: 576px) {
+    flex-direction: column;
+}
 `;
 
 export default Services;
